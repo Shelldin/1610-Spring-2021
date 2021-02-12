@@ -7,23 +7,21 @@ public class UserInput : MonoBehaviour
 {
     public Rigidbody2D ballRigidbody2D;
 
-    public Vector2 xDirection,
+    private Vector2 xDirection,
         yDirection;
+
+    public float speed = 3f,
+        jumpForce = 300f;
 
     private void Update()
     {
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            ballRigidbody2D.AddForce(xDirection, ForceMode2D.Force);
-        }
+        xDirection.x = Input.GetAxis("Horizontal") * speed;
+        ballRigidbody2D.AddForce(xDirection, ForceMode2D.Force);
+        
 
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetButtonDown("Jump"))
         {
-            ballRigidbody2D.AddForce(-xDirection, ForceMode2D.Force);
-        }
-
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
+            yDirection.y = jumpForce;
             ballRigidbody2D.AddForce(yDirection,ForceMode2D.Force);
         }
     }
