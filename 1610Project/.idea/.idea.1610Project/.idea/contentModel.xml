@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="BallGenerator.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
           <e p="SFScripts" t="Include">
             <e p="TileMovement.cs" t="Include" />
           </e>
