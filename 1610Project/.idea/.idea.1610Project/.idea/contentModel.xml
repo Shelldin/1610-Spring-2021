@@ -11,6 +11,7 @@
           <e p="BallGenerator.cs" t="Include" />
           <e p="BrackeysTutorials" t="Include">
             <e p="TouchScreenScripts" t="Include">
+              <e p="TouchDebugPractice.cs" t="Include" />
               <e p="TouchMovementPractice.cs" t="Include" />
             </e>
           </e>
