@@ -33,8 +33,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/TouchScreenTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/VirtualDPadTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TouchScreenScripts/TouchDebugPractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/MultiTouchDispalyTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,6 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TouchScreenScripts/TouchDebugPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TouchScreenScripts/TouchMovementPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorials/TouchScreenTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorials/VirtualDPadTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorials/MultiTouchDispalyTutorial.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +98,7 @@
       <workItem from="1613025704258" duration="869000" />
       <workItem from="1613106855508" duration="3086000" />
       <workItem from="1613628905595" duration="2300000" />
-      <workItem from="1613885559733" duration="5683000" />
+      <workItem from="1613885559733" duration="7542000" />
     </task>
     <servers />
   </component>

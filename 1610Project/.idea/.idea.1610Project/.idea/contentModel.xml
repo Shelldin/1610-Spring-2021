@@ -20,7 +20,9 @@
             <e p="TileMovement.cs" t="Include" />
           </e>
           <e p="UnityTutorials" t="Include">
+            <e p="MultiTouchDispalyTutorial.cs" t="Include" />
             <e p="TouchScreenTutorial.cs" t="Include" />
+            <e p="VirtualDPadTutorial.cs" t="Include" />
           </e>
           <e p="UserInput.cs" t="Include" />
         </e>
