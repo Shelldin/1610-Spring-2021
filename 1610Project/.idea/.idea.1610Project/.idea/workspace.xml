@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef14c5a-a367-4f3a-90b0-cb76dc8df7cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InClassExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InClassExamples.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +57,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoostBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoolData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GateKeeperBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GateOpener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GateKeeperBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -111,7 +110,7 @@
       <workItem from="1613885559733" duration="8107000" />
       <workItem from="1614150751537" duration="596000" />
       <workItem from="1614232958436" duration="43000" />
-      <workItem from="1614406886312" duration="2912000" />
+      <workItem from="1614406886312" duration="3239000" />
     </task>
     <servers />
   </component>
