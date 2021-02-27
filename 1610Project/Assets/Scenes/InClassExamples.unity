@@ -544,9 +544,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f761d0045d0f94684eeec4d43a067f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballRigidbody2D: {fileID: 827565113}
+  rigidbodyObj: {fileID: 827565113}
   speed: 3
-  jumpForce: 300
+  jumpForce: 20
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0

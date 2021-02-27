@@ -16,6 +16,7 @@
             </e>
           </e>
           <e p="Counter.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="KeyboardPractice.cs" t="Include" />
           <e p="SFScripts" t="Include">
             <e p="TileMovement.cs" t="Include" />

@@ -6,14 +6,19 @@ using UnityEngine.UI;
 
 public class Counter : MonoBehaviour
 {
-    public int numberCount,
-        value = 10;
+    public IntData numberCount;
+    public int value = 10;
     public Text counterText;
+
+    private void Start()
+    {
+        counterText.text = numberCount.value.ToString();
+    }
 
     private void OnTriggerEnter2D()
     {
-        numberCount += value;
-        counterText.text = numberCount.ToString();
+        numberCount.value += value;
+        counterText.text = numberCount.value.ToString();
         gameObject.SetActive(false);
     }
     
