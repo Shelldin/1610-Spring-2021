@@ -22,6 +22,7 @@
           <e p="GateOpener.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="KeyboardPractice.cs" t="Include" />
+          <e p="LoopBehaviour.cs" t="Include" />
           <e p="SFScripts" t="Include">
             <e p="TileMovement.cs" t="Include" />
           </e>
@@ -31,6 +32,7 @@
             <e p="VirtualDPadTutorial.cs" t="Include" />
           </e>
           <e p="UserInput.cs" t="Include" />
+          <e p="WeaponSO.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
