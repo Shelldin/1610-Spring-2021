@@ -224,6 +224,10 @@ MonoBehaviour:
   - Apples
   - Grapes
   - Watermelons
+  weapons:
+  - {fileID: 11400000, guid: 5346613611018e74dbfb804e178941fd, type: 2}
+  - {fileID: 11400000, guid: 53f11c796093d2f46bc32c81e1c393b1, type: 2}
+  - {fileID: 11400000, guid: cb63719e3b9d23f4aba8c07f09c77ee0, type: 2}
 --- !u!4 &327773571
 Transform:
   m_ObjectHideFlags: 0
