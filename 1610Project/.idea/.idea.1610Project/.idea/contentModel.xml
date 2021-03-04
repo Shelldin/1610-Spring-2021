@@ -7,22 +7,34 @@
       <e p="1610Project.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
-          <e p="BallGenerator.cs" t="Include" />
-          <e p="BoolData.cs" t="Include" />
-          <e p="BoostBehavior.cs" t="Include" />
           <e p="BrackeysTutorials" t="Include">
             <e p="TouchScreenScripts" t="Include">
               <e p="TouchDebugPractice.cs" t="Include" />
               <e p="TouchMovementPractice.cs" t="Include" />
             </e>
           </e>
-          <e p="Counter.cs" t="Include" />
-          <e p="GateKeeperBehaviour.cs" t="Include" />
-          <e p="GateOpener.cs" t="Include" />
-          <e p="IntData.cs" t="Include" />
-          <e p="KeyboardPractice.cs" t="Include" />
-          <e p="LoopBehaviour.cs" t="Include" />
+          <e p="CreateWithCode" t="Include">
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="InClassScripts" t="Include">
+            <e p="BallGenerator.cs" t="Include" />
+            <e p="BoolData.cs" t="Include" />
+            <e p="BoostBehavior.cs" t="Include" />
+            <e p="Counter.cs" t="Include" />
+            <e p="GateKeeperBehaviour.cs" t="Include" />
+            <e p="GateOpener.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
+            <e p="KeyboardPractice.cs" t="Include" />
+            <e p="LoopBehaviour.cs" t="Include" />
+            <e p="UserInput.cs" t="Include" />
+            <e p="WeaponSO.cs" t="Include" />
+          </e>
           <e p="SFScripts" t="Include">
             <e p="TileMovement.cs" t="Include" />
           </e>
@@ -31,8 +43,6 @@
             <e p="TouchScreenTutorial.cs" t="Include" />
             <e p="VirtualDPadTutorial.cs" t="Include" />
           </e>
-          <e p="UserInput.cs" t="Include" />
-          <e p="WeaponSO.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
