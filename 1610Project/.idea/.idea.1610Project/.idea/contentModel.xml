@@ -27,8 +27,13 @@
             </e>
           </e>
           <e p="CreateWithCode" t="Include">
-            <e p="FollowPlayer.cs" t="Include" />
-            <e p="PlayerController.cs" t="Include" />
+            <e p="Lesson 1" t="Include">
+              <e p="FollowPlayer.cs" t="Include" />
+              <e p="PlayerController.cs" t="Include" />
+            </e>
+            <e p="Lesson 2" t="Include">
+              <e p="PlayerContollerTwo.cs" t="Include" />
+            </e>
           </e>
           <e p="InClassScripts" t="Include">
             <e p="BallGenerator.cs" t="Include" />
