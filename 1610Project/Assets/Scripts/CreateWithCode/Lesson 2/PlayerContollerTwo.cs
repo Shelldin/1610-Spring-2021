@@ -9,6 +9,8 @@ public class PlayerContollerTwo : MonoBehaviour
 
     public float xBoundaryRange = 10f;
 
+    public GameObject projectilePrefab;
+
     private Vector3 leftBoundaryVector3;
     private Vector3 rightBoundaryVector3;
 
@@ -35,5 +37,10 @@ public class PlayerContollerTwo : MonoBehaviour
         
         horizontalInput = Input.GetAxis("Horizontal");
         transform.Translate(Vector3.right * (horizontalInput * Time.deltaTime * speed));
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+        }
     }
 }

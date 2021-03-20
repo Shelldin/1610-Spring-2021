@@ -32,6 +32,8 @@
               <e p="PlayerController.cs" t="Include" />
             </e>
             <e p="Lesson 2" t="Include">
+              <e p="DestroyOutOfBounds.cs" t="Include" />
+              <e p="MoveForwardBehaviour.cs" t="Include" />
               <e p="PlayerContollerTwo.cs" t="Include" />
             </e>
           </e>
