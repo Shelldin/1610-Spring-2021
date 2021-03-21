@@ -33,6 +33,7 @@
             </e>
             <e p="Lesson 2" t="Include">
               <e p="DestroyOutOfBounds.cs" t="Include" />
+              <e p="DetectCollisionBehaviour.cs" t="Include" />
               <e p="MoveForwardBehaviour.cs" t="Include" />
               <e p="PlayerContollerTwo.cs" t="Include" />
               <e p="SpawnManagerBehaviour.cs" t="Include" />
