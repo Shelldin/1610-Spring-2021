@@ -14,6 +14,15 @@
             <e p="SpinPropellerBehaviour.cs" t="Include" />
           </e>
         </e>
+        <e p="Challenge 2" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DestroyOutOfBoundsXX.cs" t="Include" />
+            <e p="DetectCollisionsXX.cs" t="Include" />
+            <e p="MoveForwardXX.cs" t="Include" />
+            <e p="PlayerControllerXX.cs" t="Include" />
+            <e p="SpawnManagerXX.cs" t="Include" />
+          </e>
+        </e>
         <e p="Course Library" t="Include">
           <e p="_Source_Files" t="Include">
             <e p="_LICENSE.txt" t="Include" />
