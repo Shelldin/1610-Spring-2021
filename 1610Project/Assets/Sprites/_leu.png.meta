@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: d62c48db6db1d234ba08a75901ad7fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7411319053256864080
+    second: _leu_0
+  - first:
+      213: 3519957677536786586
+    second: _leu_1
+  - first:
+      213: -2196286726140907040
+    second: _leu_2
+  - first:
+      213: -7602922871590055557
+    second: _leu_3
+  - first:
+      213: -6493358568925308950
+    second: _leu_4
+  - first:
+      213: -1845396202804304587
+    second: _leu_5
+  - first:
+      213: 6455982578126385775
+    second: _leu_6
+  - first:
+      213: -9036431602992751275
+    second: _leu_7
+  - first:
+      213: -4176622270026427208
+    second: _leu_8
+  - first:
+      213: 1465025363013410878
+    second: _leu_9
+  - first:
+      213: 4605577231052432234
+    second: _leu_10
+  - first:
+      213: 8753726126410045915
+    second: _leu_11
+  - first:
+      213: -2257553141325666072
+    second: _leu_12
+  - first:
+      213: -6099469358888774433
+    second: _leu_13
+  - first:
+      213: -5181086406187622093
+    second: _leu_14
+  - first:
+      213: -7727151650665235719
+    second: _leu_15
+  - first:
+      213: 6367408030950648156
+    second: _leu_16
+  - first:
+      213: 5403411397393965259
+    second: _leu_17
+  - first:
+      213: -5634942354480583838
+    second: _leu_18
+  - first:
+      213: -7162032821690501848
+    second: _leu_19
+  - first:
+      213: 4814175429192760280
+    second: _leu_20
+  - first:
+      213: 6284297861896366007
+    second: _leu_21
+  - first:
+      213: 1812329883501688424
+    second: _leu_22
+  - first:
+      213: 1925964926696115306
+    second: _leu_23
+  - first:
+      213: -2567522734284666532
+    second: _leu_24
+  - first:
+      213: -1386359722005696967
+    second: _leu_25
+  - first:
+      213: 3714829626975744043
+    second: _leu_26
+  - first:
+      213: 1458130705967353811
+    second: _leu_27
+  - first:
+      213: 4571814331078322547
+    second: _leu_28
+  - first:
+      213: 5416849995197018456
+    second: _leu_29
+  - first:
+      213: -6673573484398875410
+    second: _leu_30
+  - first:
+      213: -1600308366679700150
+    second: _leu_31
+  - first:
+      213: 6746657364744850899
+    second: _leu_32
+  - first:
+      213: 4479300170338548157
+    second: _leu_33
+  - first:
+      213: -2346833360596041202
+    second: _leu_34
+  - first:
+      213: 5300126290596515731
+    second: _leu_35
+  - first:
+      213: -88685671406970585
+    second: _leu_36
+  - first:
+      213: -59807741256199162
+    second: _leu_37
+  - first:
+      213: 2917064560509508733
+    second: _leu_38
+  - first:
+      213: -4878493735048038374
+    second: _leu_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _leu_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 239
+        width: 194
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b57e796b4ad660800000000000000
+      internalID: 7411319053256864080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 378
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a983df1bbd669d030800000000000000
+      internalID: 3519957677536786586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 378
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13777ebd83581e0800000000000000
+      internalID: -2196286726140907040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 378
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719e282eedfc7690800000000000000
+      internalID: -7602922871590055557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 381
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7d7fbe8c4f2e5a0800000000000000
+      internalID: -6493358568925308950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 380
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535aefd4ee5d366e0800000000000000
+      internalID: -1845396202804304587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 380
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62755513f1489950800000000000000
+      internalID: 6455982578126385775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 382
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd08a8555289280800000000000000
+      internalID: -9036431602992751275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 380
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4d6129c28a906c0800000000000000
+      internalID: -4176622270026427208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 356
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302a5d3ec0d45410800000000000000
+      internalID: 1465025363013410878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 352
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e18a171c4aef30800000000000000
+      internalID: 4605577231052432234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 352
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd91ab1688b7b7970800000000000000
+      internalID: 8753726126410045915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 353
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e867b5016f8ba0e0800000000000000
+      internalID: -2257553141325666072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 353
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd41e093fe45a5ba0800000000000000
+      internalID: -6099469358888774433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 352
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e4983d551918b0800000000000000
+      internalID: -5181086406187622093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 353
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa76809384a3c490800000000000000
+      internalID: -7727151650665235719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_16
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 352
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5968c04ed39d5850800000000000000
+      internalID: 6367408030950648156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 352
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e6f49906ccfa40800000000000000
+      internalID: 5403411397393965259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 293
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba167a8c9acc1b0800000000000000
+      internalID: -5634942354480583838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 283
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f27148195b9c90800000000000000
+      internalID: -7162032821690501848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 283
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb277db036fc240800000000000000
+      internalID: 4814175429192760280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 283
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b764191c9f463750800000000000000
+      internalID: 6284297861896366007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 283
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86671f94d60b62910800000000000000
+      internalID: 1812329883501688424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 231
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c459985e66aba10800000000000000
+      internalID: 1925964926696115306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 216
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59093e2da35e5cd0800000000000000
+      internalID: -2567522734284666532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 216
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee0f69d29a2cce0800000000000000
+      internalID: -1386359722005696967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 216
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207cfc1dd9bd8330800000000000000
+      internalID: 3714829626975744043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 216
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df064dc6225c3410800000000000000
+      internalID: 1458130705967353811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379a6fe59e8527f30800000000000000
+      internalID: 4571814331078322547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 115
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517b45fe548c2b40800000000000000
+      internalID: 5416849995197018456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 114
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec60f72644b263a0800000000000000
+      internalID: -6673573484398875410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 126
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d88f0f4009ac9e0800000000000000
+      internalID: -1600308366679700150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 125
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc3eeb021f0ad50800000000000000
+      internalID: 6746657364744850899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_33
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 122
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db93067c5cba92e30800000000000000
+      internalID: 4479300170338548157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0203aa1e7f5e6fd0800000000000000
+      internalID: -2346833360596041202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc6bfa7c4dd8940800000000000000
+      internalID: 5300126290596515731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729de1b0adce4cef0800000000000000
+      internalID: -88685671406970585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041b9b1d258b2ff0800000000000000
+      internalID: -59807741256199162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 13
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cdc0433ce7b7820800000000000000
+      internalID: 2917064560509508733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _leu_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 13
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183e7b9bcb1c4cb0800000000000000
+      internalID: -4878493735048038374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8aa8e3eda604ad949ab61ac51e2a50ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

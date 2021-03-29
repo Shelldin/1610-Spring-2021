@@ -34,6 +34,11 @@
               <e p="TouchDebugPractice.cs" t="Include" />
               <e p="TouchMovementPractice.cs" t="Include" />
             </e>
+            <e p="TurnBasedCombat" t="Include">
+              <e p="BattleHud.cs" t="Include" />
+              <e p="BattleSystem.cs" t="Include" />
+              <e p="Unit.cs" t="Include" />
+            </e>
           </e>
           <e p="CreateWithCode" t="Include">
             <e p="Lesson 1" t="Include">
