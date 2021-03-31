@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef14c5a-a367-4f3a-90b0-cb76dc8df7cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/SFForegrounds.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/SFForegrounds.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/BrackeysTutorials/TurnBasedCombatTutorial.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BrackeysTutorials/TurnBasedCombatTutorial.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/Unit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/Unit.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +81,8 @@
         <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/DetectCollisionsXX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/DestroyOutOfBoundsXX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 2/Scripts/SpawnManagerXX.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/Unit.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleHud.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/Unit.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" />
       </list>
     </option>
@@ -146,7 +144,8 @@
       <workItem from="1616214074036" duration="2916000" />
       <workItem from="1616302472649" duration="1678000" />
       <workItem from="1616563961415" duration="1964000" />
-      <workItem from="1616999991193" duration="2945000" />
+      <workItem from="1616999991193" duration="3218000" />
+      <workItem from="1617166670479" duration="2929000" />
     </task>
     <servers />
   </component>
