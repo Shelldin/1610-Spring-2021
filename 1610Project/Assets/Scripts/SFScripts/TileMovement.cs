@@ -8,6 +8,8 @@ public class TileMovement : MonoBehaviour
 
     public float movementSpeed = 5f;
     public Transform movementPoint;
+
+    private Vector3 movePositionV3 = new Vector3(0f, 0f,0f);
     
     void Start()
     {
@@ -22,13 +24,17 @@ public class TileMovement : MonoBehaviour
         if (Vector3.Distance(transform.position, movementPoint.position) <=.05f)
         {
             if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f)
-            { 
-                movementPoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f,0f);
+            {
+                movePositionV3.x = Input.GetAxisRaw("Horizontal");
+                movePositionV3.y = 0f;
+                movementPoint.position += movePositionV3;
             }
 
             else if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
-            { 
-                movementPoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"),0f);
+            {
+                movePositionV3.y = Input.GetAxisRaw("Vertical");
+                movePositionV3.x = 0f;
+                movementPoint.position += movePositionV3;
             }  
         }
         
