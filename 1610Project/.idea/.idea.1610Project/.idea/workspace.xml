@@ -21,9 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bef14c5a-a367-4f3a-90b0-cb76dc8df7cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/UnityTutorials/Prototype 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UnityTutorials/Prototype 3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/PlayerController3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/PlayerController3.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +34,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/MoveLeft.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/VirtualDPadTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TouchScreenScripts/TouchDebugPractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DetectCollisionBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/TouchScreenTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/MoveForwardBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleHud.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/VirtualDPadTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DestroyOutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/SpawnManagerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TouchScreenScripts/TouchDebugPractice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/MultiTouchDispalyTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/RepeatBackground.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,6 +87,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/Unit.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SFScripts/TileMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/MoveLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/RepeatBackground.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/PlayerController3.cs" />
       </list>
     </option>
@@ -149,7 +155,7 @@
       <workItem from="1617166670479" duration="3096000" />
       <workItem from="1617340451082" duration="2409000" />
       <workItem from="1617503143771" duration="567000" />
-      <workItem from="1617600116888" duration="1030000" />
+      <workItem from="1617600116888" duration="3217000" />
     </task>
     <servers />
   </component>

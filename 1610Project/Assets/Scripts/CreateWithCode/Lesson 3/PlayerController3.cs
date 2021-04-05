@@ -10,7 +10,7 @@ public class PlayerController3 : MonoBehaviour
     public float jumpForce = 10f;
     public float gravityModifier = 1f;
     public bool grounded;
-    
+    public bool gameOver;
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
@@ -26,8 +26,16 @@ public class PlayerController3 : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision other)
+    private void OnCollisionEnter(Collision collision)
     {
-        grounded = true;
+
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            grounded = true;
+        }
+        else if(collision.gameObject.CompareTag("Obstacle"))
+        {
+            
+        }
     }
 }

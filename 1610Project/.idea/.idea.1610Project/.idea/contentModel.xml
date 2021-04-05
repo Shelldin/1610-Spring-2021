@@ -56,7 +56,10 @@
               <e p="SpawnManagerBehaviour.cs" t="Include" />
             </e>
             <e p="Lesson 3" t="Include">
+              <e p="MoveLeft.cs" t="Include" />
               <e p="PlayerController3.cs" t="Include" />
+              <e p="RepeatBackground.cs" t="Include" />
+              <e p="SpawnManager.cs" t="Include" />
             </e>
           </e>
           <e p="InClassScripts" t="Include">
