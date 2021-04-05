@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef14c5a-a367-4f3a-90b0-cb76dc8df7cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TRPG.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TRPG.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Square.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Square.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/UnityTutorials/Prototype 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UnityTutorials/Prototype 3.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +84,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/Unit.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SFScripts/TileMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/PlayerController3.cs" />
       </list>
     </option>
   </component>
@@ -146,7 +148,8 @@
       <workItem from="1616999991193" duration="3218000" />
       <workItem from="1617166670479" duration="3096000" />
       <workItem from="1617340451082" duration="2409000" />
-      <workItem from="1617503143771" duration="561000" />
+      <workItem from="1617503143771" duration="567000" />
+      <workItem from="1617600116888" duration="1030000" />
     </task>
     <servers />
   </component>
