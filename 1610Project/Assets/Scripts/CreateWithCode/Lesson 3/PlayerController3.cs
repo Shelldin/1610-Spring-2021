@@ -6,6 +6,7 @@ using UnityEngine;
 public class PlayerController3 : MonoBehaviour
 {
     private Rigidbody playerRb;
+    private Animator playerAnim;
     
     public float jumpForce = 10f;
     public float gravityModifier = 1f;
@@ -13,16 +14,18 @@ public class PlayerController3 : MonoBehaviour
     public bool gameOver = false;
     void Start()
     {
+        playerAnim = GetComponent<Animator>();
         playerRb = GetComponent<Rigidbody>();
         Physics.gravity *= gravityModifier;
     }
 
     void Update()
     {
-        if (Input.GetButtonDown("Jump") && grounded)
+        if (Input.GetButtonDown("Jump") && grounded && !gameOver )
         {
           playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
           grounded = false;
+          playerAnim.SetTrigger("Jump_trig");
         }
     }
 
@@ -36,6 +39,8 @@ public class PlayerController3 : MonoBehaviour
         else if(collision.gameObject.CompareTag("Obstacle"))
         {
             gameOver = true;
+            playerAnim.SetBool("Death_b", true);
+            playerAnim.SetInteger("DeathType_int", 1);
         }
     }
 }
