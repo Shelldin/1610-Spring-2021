@@ -10,7 +10,7 @@ public class PlayerController3 : MonoBehaviour
     public float jumpForce = 10f;
     public float gravityModifier = 1f;
     public bool grounded;
-    public bool gameOver;
+    public bool gameOver = false;
     void Start()
     {
         playerRb = GetComponent<Rigidbody>();
@@ -35,7 +35,7 @@ public class PlayerController3 : MonoBehaviour
         }
         else if(collision.gameObject.CompareTag("Obstacle"))
         {
-            
+            gameOver = true;
         }
     }
 }
