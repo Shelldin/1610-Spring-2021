@@ -72,6 +72,10 @@
               <e p="RepeatBackground.cs" t="Include" />
               <e p="SpawnManager.cs" t="Include" />
             </e>
+            <e p="Lesson 4" t="Include">
+              <e p="PlayerController4.cs" t="Include" />
+              <e p="RotateCamera.cs" t="Include" />
+            </e>
           </e>
           <e p="InClassScripts" t="Include">
             <e p="BallGenerator.cs" t="Include" />
