@@ -34,6 +34,14 @@
             <e p="SpawnManagerX3.cs" t="Include" />
           </e>
         </e>
+        <e p="Challenge 4" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EnemyX4.cs" t="Include" />
+            <e p="PlayerControllerX4.cs" t="Include" />
+            <e p="RotateCameraX4.cs" t="Include" />
+            <e p="SpawnManagerX4.cs" t="Include" />
+          </e>
+        </e>
         <e p="Course Library" t="Include">
           <e p="_Source_Files" t="Include">
             <e p="_LICENSE.txt" t="Include" />

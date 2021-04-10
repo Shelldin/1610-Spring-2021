@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef14c5a-a367-4f3a-90b0-cb76dc8df7cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/SpawnManager4.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/SpawnManager4.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DetectCollisionBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/TouchScreenTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/MoveForwardBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleHud.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/PlayerController4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DestroyOutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
@@ -103,6 +103,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/PlayerController4.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/SpawnManager4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/RotateCameraX4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX4.cs" />
       </list>
     </option>
   </component>
@@ -170,7 +174,7 @@
       <workItem from="1617600116888" duration="10174000" />
       <workItem from="1617773536280" duration="1669000" />
       <workItem from="1617857445514" duration="2224000" />
-      <workItem from="1618015908317" duration="2297000" />
+      <workItem from="1618015908317" duration="6058000" />
     </task>
     <servers />
   </component>
