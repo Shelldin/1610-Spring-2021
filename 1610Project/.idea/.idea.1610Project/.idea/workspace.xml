@@ -21,26 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bef14c5a-a367-4f3a-90b0-cb76dc8df7cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Bone_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Bone_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Cookie_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Cookie_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_EnergyCan_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_EnergyCan_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Fish_Cooked.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Fish_Cooked.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Apple_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Apple_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Apple_03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Apple_03.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Carrot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Carrot.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Pear_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Organic_Pear_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Pizza_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Pizza_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Sandwich_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Sandwich_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Steak_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Steak_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Wine_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Food/Food_Wine_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Obstacles/Crate_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials/SumoBalls_Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Materials/SumoBalls_Material.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures/SumoBalls.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Source_Files/Textures/SumoBalls.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Item_Ball_Soccer_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/FBX/SM_Item_Ball_Soccer_01.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonCity_Mat_01_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonCity_Mat_01_A.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/GameManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,27 +34,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/MoveLeft.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/VirtualDPadTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/SpawnManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TouchScreenScripts/TouchDebugPractice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/SpawnManager4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DetectCollisionBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/SpawnManager4.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/TouchScreenTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/MoveForwardBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleHud.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/PlayerController4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DestroyOutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/SpawnManagerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 3/Scripts/MoveLeftX3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/MultiTouchDispalyTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/RepeatBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/RepeatBackground.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerX3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 3/MoveLeft.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/SpinPropellerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrackeysTutorials/TurnBasedCombat/BattleSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 4/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/Target.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/DetectCollisionBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/MoveForwardBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 4/Scripts/RotateCameraX4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson 2/SpawnManagerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorials/MultiTouchDispalyTutorial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,8 +112,8 @@
         <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/PlayerControllerX4.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/SpawnManagerX4.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 4/Scripts/EnemyX4.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/Target.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateWithCode/Lesson5/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -196,6 +183,7 @@
       <workItem from="1617857445514" duration="2224000" />
       <workItem from="1618015908317" duration="6058000" />
       <workItem from="1618464194918" duration="2129000" />
+      <workItem from="1618897567597" duration="487000" />
     </task>
     <servers />
   </component>
