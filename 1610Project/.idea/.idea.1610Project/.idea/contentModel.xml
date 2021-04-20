@@ -6,6 +6,171 @@
     <e p="D:\1610\1610Spring2021\1610 Spring 2021\1610Project" t="IncludeRecursive">
       <e p="1610Project.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Challenge 1" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="FollowPlayerX.cs" t="Include" />
+            <e p="PlayerControllerX.cs" t="Include" />
+            <e p="SpinPropellerBehaviour.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Challenge 2" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DestroyOutOfBoundsXX.cs" t="Include" />
+            <e p="DetectCollisionsXX.cs" t="Include" />
+            <e p="MoveForwardXX.cs" t="Include" />
+            <e p="PlayerControllerXX.cs" t="Include" />
+            <e p="SpawnManagerXX.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Challenge 3" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="SpinObjectsX.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="MoveLeftX3.cs" t="Include" />
+            <e p="PlayerControllerX3.cs" t="Include" />
+            <e p="RepeatBackgroundX3.cs" t="Include" />
+            <e p="SpawnManagerX3.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Challenge 4" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EnemyX4.cs" t="Include" />
+            <e p="PlayerControllerX4.cs" t="Include" />
+            <e p="RotateCameraX4.cs" t="Include" />
+            <e p="SpawnManagerX4.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="UnlitVertexColour_Alpha.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="DestroyAfterDelay.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="Baloo_Chettan" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Exo_2" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Indie_Flower" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Margarine" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Oswald" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Roboto_Condensed" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BrackeysTutorials" t="Include">
+            <e p="TouchScreenScripts" t="Include">
+              <e p="TouchDebugPractice.cs" t="Include" />
+              <e p="TouchMovementPractice.cs" t="Include" />
+            </e>
+            <e p="TurnBasedCombat" t="Include">
+              <e p="BattleHud.cs" t="Include" />
+              <e p="BattleSystem.cs" t="Include" />
+              <e p="Unit.cs" t="Include" />
+            </e>
+          </e>
+          <e p="CreateWithCode" t="Include">
+            <e p="Lesson 1" t="Include">
+              <e p="FollowPlayer.cs" t="Include" />
+              <e p="PlayerController.cs" t="Include" />
+            </e>
+            <e p="Lesson 2" t="Include">
+              <e p="DestroyOutOfBounds.cs" t="Include" />
+              <e p="DetectCollisionBehaviour.cs" t="Include" />
+              <e p="MoveForwardBehaviour.cs" t="Include" />
+              <e p="PlayerContollerTwo.cs" t="Include" />
+              <e p="SpawnManagerBehaviour.cs" t="Include" />
+            </e>
+            <e p="Lesson 3" t="Include">
+              <e p="MoveLeft.cs" t="Include" />
+              <e p="PlayerController3.cs" t="Include" />
+              <e p="RepeatBackground.cs" t="Include" />
+              <e p="SpawnManager.cs" t="Include" />
+            </e>
+            <e p="Lesson 4" t="Include">
+              <e p="Enemy.cs" t="Include" />
+              <e p="PlayerController4.cs" t="Include" />
+              <e p="RotateCamera.cs" t="Include" />
+              <e p="SpawnManager4.cs" t="Include" />
+            </e>
+            <e p="Lesson5" t="Include">
+              <e p="GameManager.cs" t="Include" />
+              <e p="Target.cs" t="Include" />
+            </e>
+          </e>
+          <e p="InClassScripts" t="Include">
+            <e p="BallGenerator.cs" t="Include" />
+            <e p="BoolData.cs" t="Include" />
+            <e p="BoostBehavior.cs" t="Include" />
+            <e p="Counter.cs" t="Include" />
+            <e p="GateKeeperBehaviour.cs" t="Include" />
+            <e p="GateOpener.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
+            <e p="KeyboardPractice.cs" t="Include" />
+            <e p="LoopBehaviour.cs" t="Include" />
+            <e p="UserInput.cs" t="Include" />
+            <e p="WeaponSO.cs" t="Include" />
+          </e>
+          <e p="SFScripts" t="Include">
+            <e p="TileMovement.cs" t="Include" />
+          </e>
+          <e p="UnityTutorials" t="Include">
+            <e p="MultiTouchDispalyTutorial.cs" t="Include" />
+            <e p="TouchScreenTutorial.cs" t="Include" />
+            <e p="VirtualDPadTutorial.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
