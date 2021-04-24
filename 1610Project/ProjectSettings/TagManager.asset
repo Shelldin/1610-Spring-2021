@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - PowerUP
   - Enemy
+  - Bad
   layers:
   - Default
   - TransparentFX
