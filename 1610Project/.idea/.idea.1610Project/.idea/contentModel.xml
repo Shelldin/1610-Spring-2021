@@ -42,6 +42,14 @@
             <e p="SpawnManagerX4.cs" t="Include" />
           </e>
         </e>
+        <e p="Challenge 5" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DestroyObjectX5.cs" t="Include" />
+            <e p="DifficultyButtonX5.cs" t="Include" />
+            <e p="GameManagerX5.cs" t="Include" />
+            <e p="TargetX5.cs" t="Include" />
+          </e>
+        </e>
         <e p="Course Library" t="Include">
           <e p="_Source_Files" t="Include">
             <e p="_LICENSE.txt" t="Include" />
