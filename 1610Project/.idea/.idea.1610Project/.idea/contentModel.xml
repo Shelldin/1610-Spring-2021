@@ -110,6 +110,7 @@
               <e p="SpawnManager4.cs" t="Include" />
             </e>
             <e p="Lesson5" t="Include">
+              <e p="DifficultyButton.cs" t="Include" />
               <e p="GameManager.cs" t="Include" />
               <e p="Target.cs" t="Include" />
             </e>
